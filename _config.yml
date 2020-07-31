@@ -3,6 +3,8 @@ name: Engineering Guidelines
 description: Collection of Prixz's Best Practices; a distillation of the institutional knowledge around “how things should be done here”. 
 url: "https://farmacia-logistica.github.io/EngineeringGuidelines/"
 markdown: kramdown
+kramdown:
+  parse_block_html: true
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-relative-links
