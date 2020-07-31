@@ -596,7 +596,7 @@ By default the SSH configuration file may not exist so you may need to create it
 touch ~/.ssh/config
 ```
 
-### **SSH Config File Structure and Patterns**
+### SSH Config File Structure and Patterns
 
 The SSH Config File takes the following structure:
 
@@ -683,7 +683,7 @@ git merge your-branch-name
 git push # push the changes to the remote repository
 ```
 
-### **About commit messages**
+### About commit messages
 
 The Git convention is to use a one-line summary, then a blank line, then one or more paragraphs of details.
 
