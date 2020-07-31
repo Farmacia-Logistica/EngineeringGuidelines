@@ -1,7 +1,7 @@
 # Jekyll configuration
-name: Markdown to pages
-description: Create a github page using markdown syntax
-url: "https://hugoliconv.github.io/markdown-to-pages/"
+name: Engineering Guidelines
+description: Collection of Prixz's Best Practices; a distillation of the institutional knowledge around “how things should be done here”. 
+url: "https://farmacia-logistica.github.io/EngineeringGuidelines/"
 markdown: kramdown
 theme: jekyll-theme-cayman
 plugins:
