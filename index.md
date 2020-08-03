@@ -149,7 +149,7 @@ The rules are defined in configuration files. for eslint, you need to create a `
 
 This is an example of a configuration file.
 
-```json
+```javascript
 {
   "arrowParens": "always", // Include parentheses around a sole arrow function parameter.
   "printWidth": 80, // Specify the line length that the printer will wrap on.
@@ -193,7 +193,7 @@ function helloWorld() {
 }
 ```
 
-You can find a link to all the available options in the **[resources section](##Resources)**
+You can find a link to all the available options in the **[resources section](#Resources)**
 
 ### ESLint
 
@@ -242,9 +242,7 @@ npx mrm lint-staged
 It will install and configure husky and lint-staged depending on code quality tools from **package.json**
 
 ```json
-// Package.json
 {
-  //...
   "husky": {
     "hooks": {
       "pre-commit": "lint-staged",
@@ -255,7 +253,6 @@ It will install and configure husky and lint-staged depending on code quality to
     "*.js": "eslint --cache --fix",
     "*.{js,css,md}": "prettier --write"
   }
-  //...
 }
 ```
 
