@@ -1,7 +1,7 @@
 # Jekyll configuration
 name: Engineering Guidelines
-description: Collection of Prixz's Best Practices; a distillation of the institutional knowledge around “how things should be done here”. 
-url: "https://farmacia-logistica.github.io/EngineeringGuidelines/"
+description: Collection of Prixz's Best Practices. This is a formal document that establishes uniform engineering or technical criteria, methods, processes, and practices.
+url: "https://farmacia-logistica.github.io/EngineeringGuidelines/index.html"
 markdown: kramdown
 kramdown:
   parse_block_html: true

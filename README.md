@@ -4,7 +4,7 @@ Collection of Prixz's Best Practices.
 
 This is a formal document that establishes uniform engineering or technical criteria, methods, processes, and practices.
 
-## Instalation
+## Installation
 
 ```bash
 git clone https://github.com/Farmacia-Logistica/EngineeringGuidelines.git && cd EngineeringGuidelines
