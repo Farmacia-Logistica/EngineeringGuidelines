@@ -27,4 +27,4 @@ The site uses markdown files into a simple website using Github Pages and Jekyll
 
 The project is configured to use GitHub Pages and is currently being built from the / folder in the master branch. This means that every time new code is pushed into master, the site will be deployed.
 
-The site can be accessed from this [URL](https://farmacia-logistica.github.io/EngineeringGuidelines/index.html).
+The site can be accessed from this [URL](https://isotopo.github.io/EngineeringGuidelines/index.html).
